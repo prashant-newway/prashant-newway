@@ -1,6 +1,6 @@
 ### Hi there 👋
-My Name is Prashant as you may be able to see from my username . I have completed my engineering and masters in Physics from BITS Pilani .I have started slow , confused and curious which has led me to understand and pivot to my desired work which I wanna do .
-I am currently working as a Data Analyst in Hyd which has helpmed in upderstanding deeply about data and systems around it.
+My Name is Prashant. I have completed my engineering and masters in Physics from BITS Pilani .I have started slow , confused and curious which has led me to understand and pivot to my desired work which I wanna do .
+I am currently working as a Data Analyst in Hyd which has helped in upderstanding deeply about data and systems around it.
 This has led me to work within and outside of my job more in data engineering systems.
 So I will be giving the latest update on the books , courses and projects which I am doing or part of.
 
@@ -12,6 +12,9 @@ I am currently
 5. Python learning
 6. DE projects
 7. starting statical analysis using Excel and Python.
+8. Learning Data Analysis.
+9. Machine Learning
+10. 
 
 
 next in my reading list-
